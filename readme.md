@@ -1,4 +1,4 @@
-# Learn Docker From Zero
+# Docker Fundamentals
 
 A beginner-friendly repository to learn Docker fundamentals on Linux.
 
@@ -649,5 +649,15 @@ This project is licensed under the MIT License.
 
 # Author
 
-Educational Docker and Data Engineering portfolio project.
+Created by Edwin Javier Torres Reyes
+
+- GitHub: https://github.com/EdwinBlackCode
+- LinkedIn: https://www.linkedin.com/in/edwintorresreyes/
+
+Focused on:
+- Data Analytics
+- Docker
+- SQL
+- Data Engineering
+- Salesforce
 
